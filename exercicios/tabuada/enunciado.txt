@@ -1,0 +1,1 @@
+Construa um programa que mostre a tabuada completa de um número lido do usuário.
