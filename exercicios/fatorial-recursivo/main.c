@@ -11,7 +11,7 @@ int main() {
     system("cls");
     /*================================================*/
 
-    printf("=================FATORIAL=================\n");
+    printf("=================FATORIAL RECURSIVO=================\n");
     printf("Digite um número: ");
 
     int n;
