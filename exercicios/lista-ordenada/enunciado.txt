@@ -1,0 +1,1 @@
+Escreva um programa que leia 5 números inteiros para uma lista e mostre a lista ordenada.
